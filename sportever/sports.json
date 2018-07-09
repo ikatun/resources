@@ -1,9 +1,9 @@
 [{
 	"names": ["tenis", "tennis"],
-	"icon": "tennis.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/tennis.png",
 	"color": "#00CB9C"
 }, {
 	"names": ["badminton"],
-	"icon": "badminton.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/badminton.png",
 	"color": "#FF2A68"
 }]

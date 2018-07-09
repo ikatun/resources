@@ -1,0 +1,7 @@
+[{
+	"names": ["tenis", "tennis"],
+	"icon": "tennis.png"
+}, {
+	"names": ["badminton"],
+	"icon": "badminton.png"
+}]

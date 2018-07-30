@@ -1,8 +1,10 @@
 [{
+	"id": 1,
 	"names": ["tenis", "tennis"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/tennis.png",
 	"color": "#00CB9C"
 }, {
+        "id": 2,
 	"names": ["badminton"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/badminton.png",
 	"color": "#FF2A68"

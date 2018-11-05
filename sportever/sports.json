@@ -4,8 +4,13 @@
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/tennis.png",
 	"color": "#00CB9C"
 }, {
-        "id": 2,
+	"id": 2,
 	"names": ["badminton"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/badminton.png",
+	"color": "#FF5D23"
+}, {
+	"id": 2,
+	"names": ["futsal"],
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/futsal.png",
 	"color": "#FF2A68"
 }]

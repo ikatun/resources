@@ -2,15 +2,18 @@
 	"id": 1,
 	"names": ["tenis", "tennis"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/tennis.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-tennis.png",
 	"color": "#00CB9C"
 }, {
 	"id": 2,
 	"names": ["badminton"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/badminton.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/badminton-tennis.png",
 	"color": "#FF5D23"
 }, {
 	"id": 3,
 	"names": ["futsal"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/futsal.png",
+	"headerImage": "",
 	"color": "#08C3D4"
 }]

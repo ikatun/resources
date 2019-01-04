@@ -14,18 +14,18 @@
 	"id": 6,
 	"names": ["table tennis"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/table-tennis.png",
-	"headerImage": "",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-table-tennis.png",
 	"color": "#5E239D"
 }, {
 	"id": 7,
 	"names": ["squash"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/squash.png",
-	"headerImage": "",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-squash.png",
 	"color": "#EF2D56"
 }, {
 	"id": 8,
 	"names": ["golf"],
 	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/golf.png",
-	"headerImage": "",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-golf.png",
 	"color": "#EAC435"
 }]

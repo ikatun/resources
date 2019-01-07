@@ -1,31 +1,31 @@
 [{
 	"id": 1,
 	"names": ["tenis", "tennis"],
-	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/tennis.png",
-	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-tennis.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/white/tennis.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/background/tennis.png",
 	"color": "#00CB9C"
 }, {
 	"id": 2,
 	"names": ["badminton"],
-	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/badminton.png",
-	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-badminton.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/white/badminton.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/background/badminton.png",
 	"color": "#FF5D23"
 }, {
 	"id": 6,
 	"names": ["table tennis"],
-	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/table-tennis.png",
-	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-table-tennis.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/white/table-tennis.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/background/table-tennis.png",
 	"color": "#5E239D"
 }, {
 	"id": 7,
 	"names": ["squash"],
-	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/squash.png",
-	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-squash.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/white/squash.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/background/squash.png",
 	"color": "#EF2D56"
 }, {
 	"id": 8,
 	"names": ["golf"],
-	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/golf.png",
-	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/header-golf.png",
+	"icon": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/white/golf.png",
+	"headerImage": "https://raw.githubusercontent.com/ikatun/resources/master/sportever/background/golf.png",
 	"color": "#EAC435"
 }]
